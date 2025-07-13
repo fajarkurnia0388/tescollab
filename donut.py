@@ -82,3 +82,5 @@ while True:
     A += 0.04
     B += 0.02
     time.sleep(0.01)
+
+#TES PULL REQUEST dan tes Merge
